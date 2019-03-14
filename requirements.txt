@@ -1,0 +1,6 @@
+pandas==0.20.3
+numpy==1.13.3
+matplotlib==2.1.0
+openweathermapy==0.6.6
+citipy==0.0.5
+progressbar2==3.34.3
